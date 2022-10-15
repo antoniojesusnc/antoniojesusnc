@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**antoniojesusnc/antoniojesusnc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+A project of a base architecture for making games.
+https://github.com/NornaGamesTeam/Urd
+
 - 🤔 I’m looking for help with ...
+Art maybe?
+
 - 💬 Ask me about ...
+Whatever you need, feel free to contact me.
+
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+https://www.linkedin.com/in/antoniojesusnarvaez/
+
+- ⚡ Work as:
+Unity Lead Developer at TangeloGames
